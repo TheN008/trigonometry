@@ -36,7 +36,7 @@
   ```
   
   <b> Other way: </b>
-  Exapmle:
+  Example:
   ```python
   from trig import trigonometry
   trig = trigonometry()
