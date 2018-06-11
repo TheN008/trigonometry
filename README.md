@@ -29,7 +29,7 @@
   
   <b> One way: </b>
   Example:
-  ```
+  ```python
   from trig import trigonometry
   trig = trigonometry(60)
   sine_value = trig.sine() # one way to get the value of sine
@@ -37,7 +37,7 @@
   
   <b> Other way: </b>
   Exapmle:
-  ```
+  ```python
   from trig import trigonometry
   trig = trigonometry()
   sine_value = trig.sine(60)
