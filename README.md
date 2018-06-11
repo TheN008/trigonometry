@@ -3,7 +3,7 @@
 # Why I wrote this?
   <ul>
   <li>
-  Well, Python has its own standard library called `math` but I saw that it actually has wrong implementation of tangent function because when the input is math.tan(math.pi/2) the output is `1.633123935319537e+16` which is other way of saying `1.633123935319537 * 10^(16)` while this is totally false because tangent of 90 degree is undefined. So I wrote a trigonometric library which includes 6 trigonometric functions namely (sine, cos, tan, cot, cosec, sec).
+  Well, Python has its own standard library called `math` but I saw that it actually has wrong implementation of tangent function because when the input is math.tan(math.pi/2) the output is `1.633123935319537e+16` which is other way of saying `1.633123935319537 * 10^(16)` while this is totally false because tangent of 90 degree (I converted pi/2 radians to degrees. Ref: 2*pi = 360 degrees ) is undefined. So I wrote a trigonometric library which includes 6 trigonometric functions namely (sine, cos, tan, cot, cosec, sec).
   </li>
   <li>
     When I was a kid, I always feared trigonometry so I had to make myself believe that trigonometry isn't the doomsday from DC Comics. 
@@ -46,3 +46,4 @@
   
 # Thanks
   Mary Jane Sterling (Book author)
+ 
