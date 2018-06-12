@@ -43,6 +43,9 @@
   sine_value = trig.sine(60)
   ```
   
+ 
+# How does it work?
+  With the help of <a href="https://en.wikipedia.org/wiki/Taylor_series">Taylor Series.</a>
   
 # Thanks
   Mary Jane Sterling (Book author)
