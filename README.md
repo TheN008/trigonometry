@@ -23,7 +23,7 @@
   
 # How to use this?
   First things first, this was not made for scientists so you can directly input your measures in degrees.
-  Later the program converts your degrees into radians and computes what it has to
+  Later the program converts your degrees into radians and computes what it has to.
   If you're already into trying this, here is how you "should" try this.
   You could actually give a degree measure either when instantiating or when calling the respected trig functions.
   
