@@ -45,7 +45,7 @@
   
  
 # How does it work?
-  With the help of <a href="https://en.wikipedia.org/wiki/Taylor_series">Taylor Series.</a>
+  With the help of <a href="https://en.wikipedia.org/wiki/Taylor_series" target="_blank">Taylor Series.</a>
   
 # Thanks
   Mary Jane Sterling (Book author)
